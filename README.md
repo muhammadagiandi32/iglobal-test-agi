@@ -22,7 +22,7 @@
     ```sh
     npm run dev
     ```
-    _Pastikan service berjalan pada url `http://localhost:8080`._
+    _Pastikan service berjalan pada url `http://localhost:8000`._
 
 # Dependencies yang di gunakan
 
